@@ -9,4 +9,4 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,AWS%20S3,Git,Docker)](https://github.com/phyu7776)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=CTR&locale=en)](https://github.com/phyu7776/CTR)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=eGov&locale=en)](https://github.com/phyu7776/eGov)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=backjoon&locale=en)](https://github.com/phyu7776/backjoon)
