@@ -9,5 +9,5 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,AWS%20S3,Git,Docker)](https://github.com/phyu7776)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=CTR&locale=ko)](https://github.com/phyu7776/CTR)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=backjoon&locale=ko)](https://github.com/phyu7776/uda_front)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=uda_front&locale=ko)](https://github.com/phyu7776/uda_front)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Myeongkook&repo=uda&locale=ko)](https://github.com/Myeongkook/uda)
