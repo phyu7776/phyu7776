@@ -4,10 +4,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phyu7776)](https://solved.ac/phyu7776/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phyu7776)](https://github.com/phyu7776/phyu7776/blob/main/README.md)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,jQuery,java,SpringBoot,Spring,eGov)](https://github.com/phyu7776)
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,AWS%20S3,Git,Docker)](https://github.com/phyu7776)
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=CTR&locale=ko)](https://github.com/phyu7776/CTR)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=phyu7776&repo=uda_front&locale=ko)](https://github.com/phyu7776/uda_front)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Myeongkook&repo=uda&locale=ko)](https://github.com/Myeongkook/uda)
